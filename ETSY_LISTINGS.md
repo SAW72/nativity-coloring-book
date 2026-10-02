@@ -39,7 +39,7 @@ Clean thick outlines, full Bible verses on every page, short story summaries, an
 
 **Instant digital download** – print as many copies as you need for family, Sunday School, or church.
 
-**Created as a Scripture-faithful resource. Full commercial rights included for Etsy sellers who purchase this listing for resale as printables.**
+**License:** Personal, family, classroom, and church use. Print as many as you need. Digital files may not be resold or redistributed.
 
 Glory to God in the highest!
 
