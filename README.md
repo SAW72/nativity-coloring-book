@@ -27,8 +27,18 @@ A high-quality, printable black-and-white coloring book covering the **entire Na
 4. Color with pencils, markers, or crayons!
 5. Share the Good News!
 
+## Commercial License – Etsy & Sales
+
+**You own these files for commercial use.**
+
+- You may sell the PDF, individual pages, printables, physical prints, and bundles on Etsy, your own shop, or any marketplace.
+- Free for personal, family, Sunday School, and church use as well.
+- All illustrations are original high-quality line-art created for this project.
+- Scripture uses public-domain wording suitable for commercial sale.
+- No trademarked characters or brands are used.
+
 **Created with love as a scripture-faithful creative project.**  
 Glory to God in the highest!
 
 ---
-*All illustrations are original line-art generated for coloring. Free for personal and church use. Please do not sell commercially without permission.*
+*All illustrations are original. Safe for commercial Etsy digital download listings.*
