@@ -2,7 +2,7 @@
 
 ## Nativity Coloring Book – Booklet Version
 
-**File:** `Nativity_Coloring_Book_BOOKLET.pdf` (available in the project artifacts)
+**File:** [`Nativity_Coloring_Book_BOOKLET.pdf`](Nativity_Coloring_Book_BOOKLET.pdf) (repository root)
 
 This version is specially imposed for **saddle-stitch / folded booklet** printing.
 
@@ -13,7 +13,7 @@ This version is specially imposed for **saddle-stitch / folded booklet** printin
 - Original 9 story pages + 3 blank pages (for notes or extra coloring)
 
 ### How to Print
-1. Download `Nativity_Coloring_Book_BOOKLET.pdf`
+1. Download [`Nativity_Coloring_Book_BOOKLET.pdf`](Nativity_Coloring_Book_BOOKLET.pdf)
 2. Print **double-sided** (flip on short edge / landscape)
 3. Make sure the printer does not re-order or scale the pages
 4. Nest the 3 sheets in order (outer sheet first)
